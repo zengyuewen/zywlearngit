@@ -4,4 +4,4 @@ Git is free software distributd under the GPL.
 
 Git has a mutable index called stagel.
 
-Git tracks changes.
+Git tracks changes of files.
